@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Micelio",
+      "hasCanvas": true,
+      "bodyTextLen": 352,
+      "bodyTextHash": "94b87cb77d345cee546db465d6af57b481d57ba11f0691022d65d5bf2c55cfce",
+      "bodyTextPrefix": "Red micelar fractal. Ángulo 32 grados, profundidad 6, longitud 1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Micelio",
+      "hasCanvas": true,
+      "bodyTextLen": 352,
+      "bodyTextHash": "94b87cb77d345cee546db465d6af57b481d57ba11f0691022d65d5bf2c55cfce",
+      "bodyTextPrefix": "Red micelar fractal. Ángulo 32 grados, profundidad 6, longitud 1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
